@@ -1,11 +1,11 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "epaycofriendsofsymfony/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
         "User management"
     ],
-    "homepage": "http://friendsofsymfony.github.com",
+    "homepage": "https://github.com/epayco/ePaycoFOSUserBundle",
     "license": "MIT",
     "authors": [
         {
